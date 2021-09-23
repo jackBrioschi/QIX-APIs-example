@@ -21,7 +21,7 @@ This is an example that shows how to retrieve the properties of a dimension of a
 
 1. **Replace userId** at line 26 of *main.js* with your UserId
 
-1. **Replace userId** at line 58 of *main.js* with a dimension Id you can extract from *getAllInfos()* method
+1. **Replace qId** at line 58 of *main.js* with a dimension Id you can extract from *getAllInfos()* method
 
 1. **Download your Qlik Sense Server certificates in PEM format** and place them into a new *certs* folder.
 
