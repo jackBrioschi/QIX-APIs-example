@@ -1,7 +1,7 @@
 # QIX-APIs-example
 This is an example that shows how to retrieve the properties of a dimension of a Qlik Sense app. Please refer to this as just an example and not to a production-ready code. 
 
-## 1. Getting started
+## Getting started
 
 1. **Install Node.js** if you haven't already (https://nodejs.org) 
 
