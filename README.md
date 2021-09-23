@@ -15,8 +15,6 @@ This is an example that shows how to retrieve the properties of a dimension of a
 
 1. **Replace enginePort** at line 13 of *main.js* with your Qlik Sense Engine port.
 
-1. **Replace enginePort** at line 13 of *main.js* with your Qlik Sense Engine port.
-
 1. **Replace appId** at line 18 of *main.js* with your Qlik app id.
 
 1. **Replace userDirectory** at line 23 of *main.js* with your User Directory
